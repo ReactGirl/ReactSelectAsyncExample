@@ -1,2 +1,0 @@
-# ReactSelectAsyncExample
-Created with CodeSandbox
